@@ -1,2 +1,3 @@
 # test
-This readme file is for a test repository. Have a good day.
+
+I am a sophemore college student studying for a bachelor's in digital media. I like to play video games, and I sometimes go bowling.
